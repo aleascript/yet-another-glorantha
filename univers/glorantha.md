@@ -92,10 +92,10 @@ Elles sont partout et constitutives du monde. Les Erudits de l'Ambigu les ont fo
 
 En particulier: 
 
-* Les livres écrit ou imprimés sont triangulaires 
+* Les livres écrits ou imprimés sont triangulaires 
 * La monnaie a la forme de la rune de l'échange (hormis les "Sols" Darahappiens qui sont ronds)
 * Des formes spiralées (arbres, pierres, collines, montagnes)
-* Des champs carrés (i.e. pas de champs rectangulaire!)
+* Des champs carrés (i.e. pas de champs rectangulaires!)
 * Les épées ont la forme de la rune de Mort 
 * Les peaux sont marquées de tatouages qui apparaissent lors des initiations ou dans des cérémonies. Les Gloranthiens ne cachent pas leurs affiliations runiques en général (sauf les cultes trompeurs). 
 
