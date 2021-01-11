@@ -1,0 +1,52 @@
+Création d'un clan Orlanthi 
+
+- [ ] Connus pour ...
+- [ ] Vertus: 
+    - [ ]
+- [ ] Clan guerrier, pacifique ou ni l'un ni l'autre?
+- [ ] Wyter 
+- [ ] Tresors du clan 
+- [ ] Le Torque 
+    - [ ] Chef de clan 
+    - [ ]
+    - [ ]
+    - [ ]
+    - [ ]
+    - [ ]
+    - [ ]
+- [ ] Champion(ne) du clan
+- [ ] Lieux notoires 
+    - [ ] Maisons
+    - [ ] Temples
+    - [ ] Lieux-dits
+- [ ] Population 
+    - [ ] Thanes
+    - [ ] Carls
+    - [ ] Fyrd
+    - [ ] Esclaves?
+- [ ] Cultes
+    - [ ] Orlanth ?
+    - [ ] Ernalda ? 
+    - [ ]
+- [ ] Tribu 
+- [ ] Ennemis 
+    - [ ] Ancestraux
+    - [ ] Actuels 
+- [ ] Alliés
+    - [ ] Ancestraux 
+    - [ ] Actuels
+- [ ]  Rapport avec l'Empire Lunaire
+- [ ] Lignées 
+    - [ ]
+    - [ ]
+    - [ ]
+- [ ] Factions 
+    - [ ]
+    - [ ]
+    - [ ]
+- [ ] Ressources
+    - [ ] Magie (temples, cultes, trésors...)
+    - [ ] Guerre (fyrd)
+    - [ ] Richesse (commerce, culture...)
+    - [ ] Communication (liens externes) 
+    - [ ] Moral (cohésion interne)
