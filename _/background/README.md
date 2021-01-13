@@ -16,7 +16,12 @@ _Comment transformer la géopolitique tribale et clanique en objet ludique ?_
 
 Dès qu'une décision est prise, toujours penser aux contestations possibles. Les Orlanthis de part leur nature avec le vent ne sont jamais à cours de dissensions. (Note: les lunaires aussi mais leur nature est d'élaborer des plans complexes plutôt pour plaire à la Déesse).
 
-## Le ban d'Orlanth
+## L'Empire de la Lune Rouge
 
-Les Lunaires ont enchainés Orlanth. Le culte est interdit officiellement mais surtout toute magie d'Orlanth marche moins bien. En terme de jeu, cela implique toujours un dé malus dans une résolution quand on fait appel aux pouvoirs d'Orlanth. 
+Montrez aux joueurs que l'Empire est plus fort en tout: 
+* Organisation militaire
+* Magie ouverte et inclusive: les tabous sont brisés, les charmes permettent de faire repousser des membres amputés, etc...
+* Quand la lune est pleine, les pouvoirs lunaires sont puissants. 
+
+L'Empire est donc séduisant (d'où le nom des Charmes pour leur magie) mais on y perd son identité tôt ou tard. 
 

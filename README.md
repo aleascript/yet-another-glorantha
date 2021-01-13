@@ -2,7 +2,7 @@ _**Note de version**: travail en cours sur les diverses branches (dont main). Le
 
 ## Yet Another Glorantha (YAG)
 
-En réponse au YGMV (Your Glorantha May Vary), voici une idée qui pourrait permettre de s'éloigner totalement du canon gloranthien de manière totalement assumée. 
+En réponse au YGMV (Your Glorantha May Vary), voici une idée qui pourrait permettre de s'éloigner du canon gloranthien de manière totalement assumée. 
 
 Dans un futur lointain (Harshax voire même après), une Quête Héroïque a été menée et elle a débouché sur l'accouplement d'un Dragon avec Arachne Solara. De cette union, Arachne Solara a pondu des milliers d'oeufs. 
 
@@ -19,6 +19,10 @@ Les joueurs n'ont pas conscience d'être une version du monde issue d'un oeuf.
 ## Sur l'organisation des ressources
 
 C'est une vraie gageure de réussir à organiser les ressources de manière opérationnelle en terme de jeu. Donc pour l'instant, l'essentiel des ressources sont dans le répertoire _ de la Destinée. C'est, en effet, suivant le type de protagonistes envisagés pour la partie ou la campagne, que la Destinée exposera aux joueurs les ressources possibles pour former leur livret protagoniste. 
+
+## Sur les sources existantes 
+
+Les suppléments HeroWars, HeroQuest sont des vraies mines d'information pour créer les ressources du  jeu. En effet, il y a très peu de stats et beaucoup de traits directement exploitables. 
 
 
 

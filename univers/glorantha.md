@@ -8,6 +8,8 @@
 - [ ] En général on **respecte son adversaire (et la vie)** à l’exception du Chaos. 
 - [ ] Le **tutoiement** est généralisé (excepté à l'Ouest où il existe une hiérarchie de castes).
 - [ ] Le monde est plutôt **chatoyant** sauf chez les Brithinis (Malkioni intégristes immortels) et dans certaines régions sauvages. (Voir plus bas les couleurs runiques)
+- [ ] La monnaie est utilisée pour les échanges. Elle est rare et réservée aux marchands ainsi qu'à certaines professions aventureuses. Sinon c'est plutôt le troc qui est de mise dans la vie de tous les jours. 
+- [ ] Les soins repoussent la mort, accélère une guérison mais ne fait pas repousser les membres.
 
 ## Les cultures de Glorantha
 
@@ -93,7 +95,7 @@ Elles sont partout et constitutives du monde. Les Erudits de l'Ambigu les ont fo
 En particulier: 
 
 * Les livres écrits ou imprimés sont triangulaires 
-* La monnaie a la forme de la rune de l'échange (hormis les "Sols" Darahappiens qui sont ronds)
+* La monnaie a la forme de la rune de l'échange (hormis les "Sols" Darahappiens qui sont ronds, les lunars qui ont la forme de la rune de la Lune, les bolgs qui sont des sorte de cailloux percés utilisés par le Uz)
 * Des formes spiralées (arbres, pierres, collines, montagnes)
 * Des champs carrés (i.e. pas de champs rectangulaires!)
 * Les épées ont la forme de la rune de Mort 
