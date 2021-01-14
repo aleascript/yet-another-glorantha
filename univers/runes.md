@@ -1,6 +1,17 @@
 Les runes tiennent une place essentielle dans Glorantha. 
 
-Chaque rune a une incidence sur le caractère de l'individu marqué par la rune. Aux joueurs de décider du caractère marquant induit par la rune i.e. tous les personnages n'ont pas tous les traits de caractère donnés en exemple et ils peuvent aussi en accord avec le sens de la rune trouver un autre de caractère adéquat. 
+Elles sont partout et constitutives du monde. Les Erudits de l'Ambigu les ont formalisées mais elles étaient déjà présentes dès les origines. 
+
+En particulier: 
+
+* Les livres écrits ou imprimés sont triangulaires 
+* La monnaie a la forme de la rune de l'échange (hormis les "Sols" Darahappiens qui sont ronds, les lunars qui ont la forme de la rune de la Lune, les bolgs qui sont des sorte de cailloux percés utilisés par le Uz)
+* Des formes spiralées (arbres, pierres, collines, montagnes)
+* Des champs carrés (i.e. pas de champs rectangulaires!)
+* Les épées ont la forme de la rune de Mort 
+* Les peaux sont marquées de tatouages qui apparaissent lors des initiations ou dans des cérémonies. Les Gloranthiens ne cachent pas leurs affiliations runiques en général (sauf les cultes trompeurs). 
+
+Chaque rune a également une incidence sur le caractère de l'individu marqué par la rune. Aux joueurs de décider du caractère marquant induit par la rune i.e. tous les personnages n'ont pas tous les traits de caractère donnés en exemple et ils peuvent aussi en accord avec le sens de la rune trouver un autre de caractère adéquat. 
 
 # Les runes de naissance sont liés aux éléments (hormis la Lune)
 
@@ -34,19 +45,19 @@ Ces runes fonctionnent par paires.
 
 ![Mouvement](../images/runes/mouvement.png) MOUVEMENT: (s'oppose à Stase) svelte, souple, agile, impulsif 
 
-![Stase](../images/runes/stase.png) STASE: (s'oppose à Mouvement) fort, endurant, refractaire
+![Stase](../images/runes/stase.png) STASE: (s'oppose à Mouvement) fort, endurant, réfractaire
 
-![Vie](../images/runes/vie.png) VIE: (s'oppose à Mort)
+![Vie](../images/runes/vie.png) VIE: (s'oppose à Mort) bon vivant, joyeux
 
-![Mort](../images/runes/mort.png) MORT: (s'oppose à Vie)
+![Mort](../images/runes/mort.png) MORT: (s'oppose à Vie) lugubre, mélancolique
 
-![Harmonie](../images/runes/harmonie.png) HARMONIE: (s'oppose à Désordre)
+![Harmonie](../images/runes/harmonie.png) HARMONIE: (s'oppose à Désordre) empathique, compatissant
 
-![Désordre](../images/runes/desordre.png) DESORDRE: (s'oppose à Harmonie)
+![Désordre](../images/runes/desordre.png) DESORDRE: (s'oppose à Harmonie) dérangé, lunatique
 
-![Vérité](../images/runes/vérité.png) VERITE: (s'oppose à Illusion)
+![Vérité](../images/runes/vérité.png) VERITE: (s'oppose à Illusion) coincé, rigide, curieux, pédant, hautain 
 
-![Illusion](../images/runes/illusion.png) ILLUSION: (s'oppose à Vérité)
+![Illusion](../images/runes/illusion.png) ILLUSION: (s'oppose à Vérité) fourbe, discret, timide, réservé  
 
 * _Choisissez une rune forte et obtenez la rune opposée en rune faible._
 
@@ -86,3 +97,31 @@ Ces runes sont très rares et s'acquièrent en cours de jeu, hormis la loi, l'é
 Comme ces runes sont rares, cela place les personnages qui les possèdent en marge de la société quelque part (hormis pour la lune qui est un peu à part). 
 
 
+## Les couleurs runiques
+
+On a vu plus haut que le monde était chatoyant et cela va même jusqu'aux attributs physiques: peau, yeux, cheveux. 
+
+On peut en effet, relier la couleur de peau, des yeux et des cheveux à la rune forte.  
+
+Ces couleurs viennent de l'Autre Côté. Ainsi dans les quêtes héroïques, les attributs peuvent être amplifiés. On peut même se retrouver transformé à l'issue de la quête. 
+
+Un individu peut être marqué à la naissance ou lors de son initiation aussi mais également à l'issue d'une quête héroïque. 
+
+Les marques runiques corporelles peuvent aussi varier selon certains événements: après un rituel pendant une fête, pendant telle ou telle saison...  
+
+Tous les organes ne sont pas forcément marqués. Certains auront des yeux orange, d'autres des cheveux rouge vif, d'autre une peau grise pâle. 
+
+Voici quelques couleurs:  
+
+* air: orange ou bleu 
+* terre: vert olive ou marron  
+* lune: rouge ou blanc  
+* eau: bleu ou blanc 
+* obscurité: gris terne ou noir  
+* feu: jaune ou rouge
+
+Les autres runes peuvent aussi colorer un personnage. 
+
+Concernant les "races", il ne s'agit donc plus de couleurs mais de traits spécifiques héréditaires.  
+* Yeux bridés pour les Kralori 
+* Nez épatés et cheveux crépus chez les Agimori  
