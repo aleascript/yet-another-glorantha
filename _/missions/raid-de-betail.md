@@ -25,6 +25,6 @@ La saison privilégiée pour les raids est plutôt la fin de la saison de la Mer
     * Facteurs: pour soi, pour le clan, changer la rune des bêtes
     * Complications: dispute, désaccord sur le partage
     
-# Résoudre en un seul jet
+**Résoudre en un seul jet**
 
-* Au moins 6D mais possible que cela soit plus en cas de facteurs de difficultés supplémentaires (voir la valeur du Destin en particulier).
+Utilisez la résolution d'un script avec donc au moins 6D (les 6 étapes) mais il est possible que vous ajoutiez des difficultés supplémentaires pour certaines étapes selon la valeur du Destin. 
