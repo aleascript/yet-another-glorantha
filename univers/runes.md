@@ -5,7 +5,7 @@ Elles sont partout et constitutives du monde. Les Erudits de l'Ambigu les ont fo
 En particulier: 
 
 * Les livres écrits ou imprimés sont triangulaires 
-* La monnaie a la forme de la rune de l'échange (hormis les "Sols" Darahappiens qui sont ronds, les lunars qui ont la forme de la rune de la Lune, les bolgs qui sont des sorte de cailloux percés utilisés par le Uz)
+* La monnaie a la forme de la rune de l'échange chez les Orlanthis (voir la ressource [commerce](commerce.md))
 * Des formes spiralées (arbres, pierres, collines, montagnes)
 * Des champs carrés (i.e. pas de champs rectangulaires!)
 * Les épées ont la forme de la rune de Mort 
