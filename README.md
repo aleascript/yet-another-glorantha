@@ -1,5 +1,7 @@
 _**Note de version**: travail en cours sur les diverses branches (dont main). Les versions stables seront tagguées._
 
+Rune de la Chance + Rune du Destin = Hasard & Destin = HaDes :) 
+
 ## Yet Another Glorantha (YAG)
 
 En réponse au YGMV (Your Glorantha May Vary), voici une idée qui pourrait permettre de s'éloigner du canon gloranthien de manière totalement assumée. 
