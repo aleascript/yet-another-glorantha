@@ -9,7 +9,7 @@ C'est la raison d'être des Vitrosii. Le clan ne fait pas de politique. Mais c'e
 - [ ] Vertus
     - [ ] Courage
     - [ ] Violence
-- [x] Clan guerrier
+- [x] Clan de l'orage
 - [x] Wyter: le taureau blanc  
 - [ ] Trésors du clan 
 - [ ] Le Torque 

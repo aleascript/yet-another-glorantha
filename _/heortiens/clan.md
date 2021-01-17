@@ -3,9 +3,9 @@ Création d'un clan Orlanthi
 - [ ] Connus pour ...
 - [ ] Vertus: 
     - [ ]
-- [ ] Clan guerrier, pacifique ou ni l'un ni l'autre?
+- [ ] Clan de l'orage (belliqueux), de la pluie (pacifique) ou ni l'un ni l'autre (péjorativement girouette) ?
 - [ ] Wyter 
-- [ ] Tresors du clan 
+- [ ] Trésors du clan 
 - [ ] Le Torque 
     - [ ] Chef de clan 
     - [ ]
