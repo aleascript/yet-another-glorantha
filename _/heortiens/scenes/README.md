@@ -14,7 +14,7 @@ Une autre alternative est de faire jouer la scène par des PNJ qui montrent ains
 
 Le combat doit être l'occasion de faire découvrir le merveilleux de Glorantha. 
 
-HaDes est tout à fait propices à mélanger le combat physique, magique et toute autre action qui pourrait faire basculer l'issue du combat. 
+HaDes est tout à fait propice pour mélanger le combat physique, magique et toute autre action qui pourrait faire basculer l'issue du combat. 
 
 Il n'y a donc pas de difficulté majeure. 
 
@@ -23,7 +23,9 @@ J'aime l'idée que les combats puissent être difficiles et qu'ils sont toujours
 Comment utiliser HaDes pour illustrer cette difficulté? 
 
 * Considérer que les ennemis importants ont des jauges de vie également. Les ennemis mineurs n'en ont pas par contre pour donner l'impression qu'on avance quand même. 
-* Ne pas hésiter à blesser les protagonistes lorsqu'ils obtiennent un préjudice en combat. Pour rappel, une jauge de blessure à ~~II~~ signifie la mort du personnage et chaque trait de blessure ajoute aussi un dé d'handicap. 
+* Ne pas hésiter à blesser les protagonistes lorsqu'ils obtiennent un préjudice en combat. Pour rappel, une jauge de blessure à ~~II~~ signifie la mort du personnage et un niveau de jauge à II implique un dé d'handicap. 
+* C'est donc fictionnellement qu'il faut mettre la difficulté.
+
 
 ## Bataille 
 
@@ -56,6 +58,8 @@ C'est l'occasion d'introduire de nouveaux éléments du merveilleux gloranthesqu
 Les protagonistes dans Glorantha sont façonnés par leur vision du monde. Ils doivent se conformer à cela ou tenter de s'en détacher mais ils ne peuvent pas faire sans. 
 
 C'est particulièrement vrai les jours sacrés. 
+
+Il faut aussi faire prendre conscience aux joueurs que la connaissance des mythes est essentiel dans la résolution de certains obstacles. Se conformer comme le mythe c'est souvent obtenir un avantage crucial dans la résolution. 
 
 ## La vie de tous les jours 
 

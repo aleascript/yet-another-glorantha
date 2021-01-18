@@ -27,12 +27,12 @@
 
 * **Hent** le Modéré: dévot de Barntar
 * **Ranülf** le Perlé: dévot de Lankhor Mhy 
-* **Sallya** Vignevierge: dévote d'Ernalda
+* **Sallya** la Vieille-Vigne: dévote d'Ernalda
 * **Freyda** la Vagabonde: dévote d'Issaries
 * **Garmast** le Féroce: dévot de Destor (Orlant aventureux) 
 * **Vestala** la Gentille: dévote de Chalana Arroy 
 * **Rastos** Parle-aux-Dieux: prêtre et dévot d'Orlanth
 
-* **Bakthar** Tueur-de-Loups: dévot d'Odeyla (remplace Rastos en son absence)
+* **Bakthar** Tueur-de-Loups: dévot d'Odayla (remplace Rastos en son absence)
 
       
