@@ -1,3 +1,8 @@
+## Lexique
+
+Vent, Tempête, Foudre, Tonnerre, Ouragan, Tornade, Eclair 
+
+
 ## Les runes 
 
 Les runes de naissance possibles sont: 

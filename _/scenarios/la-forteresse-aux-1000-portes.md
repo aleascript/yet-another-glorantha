@@ -45,13 +45,12 @@ Obstacle: les Boucliers d'Argent
 * Féroces
 * Glaives, armure légère, bouclier d'argent 
 * Traqueurs
-* Accompagnés de renifleurs (non armés eux, qui ont l'air de fous, mal coiffés, nus)  
+* Accompagnés de renifleurs (hommes bétails de Prax, non armés eux, qui ont l'air de fous, mal coiffés, nus)  
 * Chiens de guerre: molosse, morsure, sans peur 
 
 Faire intervenir les Aldryamis qui les sauvent in extremis ? 
 - Un des Aldryami aura reconnu un protagoniste comme membre du clan
 - Une nuée de flèches s'abattent sur les chiens et des Aldryamis (2 par protagoniste) les prennent par les bras pour les pousser à sauter d'une cascade ... jusqu'à la grotte cachée dans les eaux.  
-
 En cas de défaite, les protagonistes sont réduits en esclavage. (Fin de cette aventure mais début d'une autre).
 
 Objectif: semer les Boucliers d'argent, les détourner du Tula et revenir au village. 
