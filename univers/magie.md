@@ -22,6 +22,10 @@ Les adorateurs ont juste le soutien de la communauté.
 
 Les initiés peuvent utiliser les runes comme traits dans les résolutions quand c'est adéquat et peuvent demander de l'aide à leur dieu (qui peut alors réaliser des prodiges). Les initiés prennent 1/6 de leur temps et de leurs ressources pour le culte.
 
+L'initiation a lieu vers la vingtaine mais des enfants précoces peuvent être initiés très tôt si les prêtres les sentent prêts. Il est également possible de se faire initier plus tard une fois adulte. 
+
+L'initiation consiste en un cérémonie qui va révéler un mythe du Dieu auquel on devient l'initié. Il est donc important de donner le mythe au Protagoniste pour qu'il puisse forger son personnage en fonction. Une initiation est loin d'être anodine. 
+
 Pour les dévots, ils ont accès aux runes, aux prodiges automatiquement (le prodige se manifeste toujours même si ce n'est pas suffisant pour obtenir un succès) et aussi au secret qui généralement se manifeste comme si la divinité s'incarnait en eux. Les dévots peuvent aussi obtenir des niveaux héroïques (++) sur des traits explicites. Sa dévotion occupe 2/3 de son temps et de ses ressources. 
 
 La prêtrise est un titre honorifique. En général, cela signifie une dévotion mais dans de plus petites structures on pourrait trouver un initié. 
