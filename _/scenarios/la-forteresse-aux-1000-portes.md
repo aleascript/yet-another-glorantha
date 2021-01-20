@@ -96,9 +96,12 @@ Options:
 Petit intermède pour juste faire monter la pression. 
 
 Le bois: 
-* sinistre
-* peu de feuilles sur les branches 
 * utilisé uniquement pour couper du bois et la chasse 
+* étrange
+* arbres espacés
+* peu dense
+* en pente douce de plus en plus raide
+* peu de feuilles sur les branches 
 * pas d'animaux visibles (mais il doit y en avoir vu que les chasseurs y viennent)
 * des aboiements ou des souris (selon le jet d'évaluation) ?
 
@@ -116,6 +119,7 @@ Se conclut par l'arrivée en haut d'une colline, sur une clairiere immense débo
 
 ## L'intérieur du fort 
 
+Note: que faire si aucun protagoniste n'a une affinité runique avec l'Air ? 
 
 ## Ressources supplémentaires 
 

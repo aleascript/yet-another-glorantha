@@ -19,7 +19,10 @@ La Destinée pourra l'alimenter en mythe au fil des parties: soit sous forme de 
     * **Corollaire**: Cela sous-entend déjà que cela n'a pas toujours été le cas. On a donc une situation initiale très différente de l'actuelle. _"Au départ les chiens et les chats étaient frères" par exemple_. 
   
 2. **Comment ?**: vous allez construire le mythe en expliquant comment on en est arrivé là. 
-    * **Corollaire**: vu qu'on construit un mythe, on doit forcément faire intervenir des éléments divins qui vont intervenir pour changer cet état initial des choses. _"Pendant l'Age Vert, Yinkin chassait dans la Forêt quand il fut attaqué par une meute de loups et sauvé par des Alynx. Il fut gravement blessé et depuis il voue une haine pour tous les canidés et voue une reconnaissance sans borne aux félins", par exemple_. 
+    * **Corollaire**: vu qu'on construit un mythe, on doit forcément faire intervenir des éléments divins qui vont intervenir pour changer cet état initial des choses. _"Pendant l'Age Vert, Yinkin chassait dans la Forêt quand il fut attaqué par une meute de loups. Il fut gravement blessé mais finalement sauvé par des alynx. Depuis il voue une haine pour tous les canidés et voue une reconnaissance sans borne aux félins", par exemple_. 
     * L'exemple précédent est trivial. Un mythe riche incluera plutôt d'autres divinités du même panthéon ou d'un panthéon rival ou ennemi.   
     
-    
+## Les mythes fondateurs 
+
+On peut aussi trouver des mythes plus récents pendant l'Age de l'Histoire. On remplace alors la Divinité par un Héros.
+     
