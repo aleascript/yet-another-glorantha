@@ -21,7 +21,10 @@ La Destinée pourra l'alimenter en mythe au fil des parties: soit sous forme de 
 2. **Comment ?**: vous allez construire le mythe en expliquant comment on en est arrivé là. 
     * **Corollaire**: vu qu'on construit un mythe, on doit forcément faire intervenir des éléments divins qui vont intervenir pour changer cet état initial des choses. _"Pendant l'Age Vert, Yinkin chassait dans la Forêt quand il fut attaqué par une meute de loups. Il fut gravement blessé mais finalement sauvé par des alynx. Depuis il voue une haine pour tous les canidés et voue une reconnaissance sans borne aux félins", par exemple_. 
     * L'exemple précédent est trivial. Un mythe riche incluera plutôt d'autres divinités du même panthéon ou d'un panthéon rival ou ennemi.   
-    
+
+Un mythe est une excellente occasion d'appliquer **la règle des trois** (ou plus). En effet à l'instar des contes, les mythes sont souvent composés de trois épreuves, trois étapes, trois objets, etc... _Par exemple, c'est à la quatrième épreuve (l'épreuve des armes) qu'Orlanth tua l'Empereur Yelm après avoir "échoué" aux trois premières (la danse, la magie, la musique)._  
+
+
 ## Les mythes fondateurs 
 
 On peut aussi trouver des mythes plus récents pendant l'Age de l'Histoire. On remplace alors la Divinité par un Héros.
