@@ -119,7 +119,7 @@ Se conclut par l'arrivée en haut d'une colline, sur une clairiere immense débo
 
 ## L'intérieur du fort 
 
-Note: que faire si aucun protagoniste n'a une affinité runique avec l'Air ? 
+Note: que faire si aucun protagoniste ne peut manier la rune de l'Air ?  
 
 ## Ressources supplémentaires 
 
