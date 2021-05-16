@@ -74,3 +74,5 @@ Chaque épisode de la vie du clan doit être un prétexte pour faire avancer une
 * Tisser la paix
 * Participer aux jours sacrés et autres fêtes du clan.  
 * Remplir les devoirs de son occupation de manière générale (le cultivateur cultive, l'artisan fabrique, le guerrier s'entraîne ou patrouille, etc...)
+
+

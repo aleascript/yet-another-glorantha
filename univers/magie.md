@@ -46,9 +46,15 @@ Note: il est possible (et même souhaitable) que la Magie Lunaire n'ait pas les 
 
 Les animistes n'ont plus de lien avec les Dieux depuis le Grand Compromis. Ils se considèrent comme les premiers hommes qui marchent dans le sillon des Dieux, qui assument le nouveau monde en quelque sorte. Ils communiquent avec les énergies des choses du monde actuel, négocient avec elles pour créer des fétiches. Ainsi contrairement à un prodige, l'utilisation d'un fétiche est un réflexe. Le porteur d'un fétiche est souvent contraint à un interdit pour pouvoir l'utiliser sinon l'esprit s'en va. 
 
+Les chamans ont développé leur double psychique et sont à même d'aller dans le monde des esprits pour aller chercher des esprits et les attacher dans des fétiches. 
+
+Même si de prime abord l'animisme apparait plus libre que les théistes qui sont soumis aux mythes des Dieux, cette liberté est relative car les animistes sont limités par leur Tradition et l'environnement qu'ils connaissent, qu'ils comprennent spirituellement. Un chaman des plaines aura bien du mal à comprendre les esprits présents dans les forêts par exemple. 
+
 ## Logiciens, Novices, Sorciers
 
 Les logiciens raisonnent le monde en manipulant les runes selon leur désir. Ils étudient et mettent en pratique des sortilèges écrits dans des grimoires (en forme de rune de la Loi). 
+
+Les novices étudients des grimoires existants. Les sorciers sont à même de créer leur grimoire. 
 
 ## La magie lunaire 
 
